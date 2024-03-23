@@ -1,2 +1,3 @@
 # alx-frontend
-`HTML & CSS`
+`Advanced HTML & CSS`
+`Developer tools`
